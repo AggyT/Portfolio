@@ -1,0 +1,11 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Priority,Status
+1199906114739068,2021-02-07,,2021-02-07,Buy Materials,Construct EDS,,,2021-02-06,2021-02-07,,,EDS Project Gantt Chart,,Medium,On track
+1199906115154999,2021-02-07,,2021-02-07,Impact Resistance System,Construct EDS,,,,2021-02-08,,,EDS Project Gantt Chart,,High,
+1199906114739091,2021-02-07,,2021-02-07,Descent System,Construct EDS,,,,2021-02-08,,,EDS Project Gantt Chart,,High,
+1199906115155032,2021-02-07,,2021-02-07,Test Descent Duration,Testing,,,,2021-02-09,,,EDS Project Gantt Chart,,,On track
+1199906115155036,2021-02-07,,2021-02-07,Test Magnitude of Impact,Testing,,,2021-02-07,2021-02-11,,,EDS Project Gantt Chart,,,On track
+1199906115155007,2021-02-07,,2021-02-07,Construction and Testing Notes,Documentation,,,2021-02-07,2021-02-10,,,EDS Project Gantt Chart,,Low,
+1199906114739072,2021-02-07,,2021-02-07,Report,Documentation,,,2021-02-09,2021-02-11,,,EDS Project Gantt Chart,,High,Off track
+1199906114739070,2021-02-07,,2021-02-07,Design Notebook,Documentation,,,2021-02-08,2021-02-10,,,EDS Project Gantt Chart,,Medium,At risk
+1199906115155057,2021-02-07,,2021-02-07,Record and Edit,Video,,,2021-02-07,2021-02-11,,,EDS Project Gantt Chart,,,
+1199906115155053,2021-02-07,,2021-02-07,Prepare Demonstration,Video,,,2021-02-12,2021-02-16,,,EDS Project Gantt Chart,,,

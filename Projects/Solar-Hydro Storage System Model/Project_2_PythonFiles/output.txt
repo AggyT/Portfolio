@@ -1,0 +1,1807 @@
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.05, 0.05] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 107181.67017548264
+Ein          (MWh) = 336.0314819478051
+Efficiency         = 0.35710939732319275
+Fill Time  (hours) = 4.580413255362505
+Drain Time (hours) = 9.924228719952096
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [1, 1]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.05, 0.05] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = -19154.58037100692
+Ein          (MWh) = -861.9939309794482
+Efficiency         = -0.13921211703155373
+Fill Time  (hours) = -0.8185718107267914
+Drain Time (hours) = -1.7735722565747147
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [1.5, 1.5]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.05, 0.05] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 364395.36282302317
+Ein          (MWh) = 2775.1456634409474
+Efficiency         = 0.04324097346703239
+Fill Time  (hours) = 15.572451402693298
+Drain Time (hours) = 33.74031137250215
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 90271.08826473224
+Ein          (MWh) = 175.67127821505457
+Efficiency         = 0.6830940220808179
+Fill Time  (hours) = 3.857738814732147
+Drain Time (hours) = 8.358434098586319
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 60           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 90271.08826473224
+Ein          (MWh) = 171.92204138783865
+Efficiency         = 0.6979907813524165
+Fill Time  (hours) = 4.179217049293159
+Drain Time (hours) = 8.358434098586319
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 90271.08826473224
+Ein          (MWh) = 169.8164699856742
+Efficiency         = 0.7066452388871542
+Fill Time  (hours) = 4.39917584136122
+Drain Time (hours) = 8.358434098586319
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 50           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 90271.08826473224
+Ein          (MWh) = 165.3233845719386
+Efficiency         = 0.7258501288895605
+Fill Time  (hours) = 5.015060459151791
+Drain Time (hours) = 8.358434098586319
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 55           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 90271.08826473224
+Ein          (MWh) = 168.4727435068
+Efficiency         = 0.7122813904621699
+Fill Time  (hours) = 4.559145871956174
+Drain Time (hours) = 8.358434098586319
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 55           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 20           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 88440.73757249446
+Ein          (MWh) = 165.05676383237147
+Efficiency         = 0.7270226146071161
+Fill Time  (hours) = 4.46670391780275
+Drain Time (hours) = 12.283435773957564
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 55           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 88743.03132441032
+Ein          (MWh) = 165.6209340302633
+Efficiency         = 0.7245460889507654
+Fill Time  (hours) = 4.481971279010621
+Drain Time (hours) = 11.204928197526556
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 55           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 40607.24472606247
+Ein          (MWh) = 163.86540337642026
+Efficiency         = 0.7323083306629667
+Fill Time  (hours) = 4.101741891521462
+Drain Time (hours) = 10.254354728803655
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 55           # Pump flow volume (m^3/s)
+dPipe           = [1.75, 1.75]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 41162.90404478765
+Ein          (MWh) = 178.50239593050614
+Efficiency         = 0.67225988410104
+Fill Time  (hours) = 4.157869095433095
+Drain Time (hours) = 10.394672738582738
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 50           # Pump flow volume (m^3/s)
+dPipe           = [1.75, 1.75]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 41162.90404478765
+Ein          (MWh) = 173.47908406337118
+Efficiency         = 0.6917260409108714
+Fill Time  (hours) = 4.573656004976405
+Drain Time (hours) = 10.394672738582738
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 50           # Pump flow volume (m^3/s)
+dPipe           = [1.75, 1.75]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 20           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 40935.884424508135
+Ein          (MWh) = 172.52232076630997
+Efficiency         = 0.6955621711265173
+Fill Time  (hours) = 4.548431602723126
+Drain Time (hours) = 11.371079006807815
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 50           # Pump flow volume (m^3/s)
+dPipe           = [1.75, 1.75]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 20           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 89528.40699510374
+Ein          (MWh) = 175.10298175445828
+Efficiency         = 0.6853110026891057
+Fill Time  (hours) = 4.9738003886168745
+Drain Time (hours) = 12.434500971542185
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 88743.03132441032
+Ein          (MWh) = 166.9419146819695
+Efficiency         = 0.7188128890734506
+Fill Time  (hours) = 4.324709128869898
+Drain Time (hours) = 11.204928197526556
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [75]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 50           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 87342.66708339004
+Ein          (MWh) = 148.9556770374485
+Efficiency         = 0.8056087715933858
+Fill Time  (hours) = 4.256465257475148
+Drain Time (hours) = 11.028114530731067
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 140440.6900799997
+Ein          (MWh) = 175.01199880581322
+Efficiency         = 0.6856672732087787
+Fill Time  (hours) = 6.844088210526302
+Drain Time (hours) = 17.73241036363633
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 5           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 303115.182548537
+Ein          (MWh) = 177.3934026406031
+Efficiency         = 0.6764625866223365
+Fill Time  (hours) = 7.385847527985794
+Drain Time (hours) = 19.136059504326827
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2.5, 2.5]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138189.23457603628
+Ein          (MWh) = 156.6098711905314
+Efficiency         = 0.7662352257094198
+Fill Time  (hours) = 6.734368156726915
+Drain Time (hours) = 17.44813567879246
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 137428.1014809948
+Ein          (MWh) = 150.38879850110413
+Efficiency         = 0.7979317688286404
+Fill Time  (hours) = 6.697275900633275
+Drain Time (hours) = 17.352033015277122
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2.5, 2.5]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138189.23457603628
+Ein          (MWh) = 156.6098711905314
+Efficiency         = 0.7662352257094198
+Fill Time  (hours) = 6.734368156726915
+Drain Time (hours) = 17.44813567879246
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2.5, 2.5]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 15           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 85924.54499057053
+Ein          (MWh) = 155.82345716409915
+Efficiency         = 0.770102282313162
+Fill Time  (hours) = 6.2810339905387815
+Drain Time (hours) = 16.273588066395934
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2.5, 2.5]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60378.9111251484
+Ein          (MWh) = 155.1362426679019
+Efficiency         = 0.7735136415343151
+Fill Time  (hours) = 5.884884125258129
+Drain Time (hours) = 15.24719977907788
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [2.5, 2.5]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 3           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 512407.00964696193
+Ein          (MWh) = 157.92299931600922
+Efficiency         = 0.7598639876378992
+Fill Time  (hours) = 7.4913305503941805
+Drain Time (hours) = 19.409356426021287
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 3           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 509269.4299059761
+Ein          (MWh) = 150.9989013146594
+Efficiency         = 0.794707769097854
+Fill Time  (hours) = 7.445459501549358
+Drain Time (hours) = 19.2905087085597
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 137428.1014809948
+Ein          (MWh) = 150.38879850110413
+Efficiency         = 0.7979317688286404
+Fill Time  (hours) = 6.697275900633275
+Drain Time (hours) = 17.352033015277122
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 15           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 85482.97558128662
+Ein          (MWh) = 150.02305466121314
+Efficiency         = 0.7998770607023556
+Fill Time  (hours) = 6.2487555249478515
+Drain Time (hours) = 16.189957496455797
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60088.09761750337
+Ein          (MWh) = 149.70322412702774
+Efficiency         = 0.8015859424522237
+Fill Time  (hours) = 5.856539728801498
+Drain Time (hours) = 15.173762024622063
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 57           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [100]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 22           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60104.488513762844
+Ein          (MWh) = 150.00944113874908
+Efficiency         = 0.7999496504290534
+Fill Time  (hours) = 5.858137282043161
+Drain Time (hours) = 15.1779011398391
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [100]         # Pipe length (m)
+fPipe           = [0.002, 0.002] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60340.27464042623
+Ein          (MWh) = 151.931804812868
+Efficiency         = 0.7898280425734566
+Fill Time  (hours) = 5.157288430805661
+Drain Time (hours) = 11.174124933412264
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [100]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 65275.95647183503
+Ein          (MWh) = 220.01070019733066
+Efficiency         = 0.5454280173299314
+Fill Time  (hours) = 5.579141578789319
+Drain Time (hours) = 12.088140087376857
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 63526.188210784596
+Ein          (MWh) = 195.87577933734806
+Efficiency         = 0.6126331719315301
+Fill Time  (hours) = 5.429588735964495
+Drain Time (hours) = 11.764108927923074
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 146494.68094170952
+Ein          (MWh) = 203.67218020068844
+Efficiency         = 0.5891820860451239
+Fill Time  (hours) = 6.260456450500407
+Drain Time (hours) = 13.564322309417548
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [90]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 149719.9042590287
+Ein          (MWh) = 223.134884875784
+Efficiency         = 0.5377913008394106
+Fill Time  (hours) = 6.398286506796099
+Drain Time (hours) = 13.862954098058212
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 154096.33390814962
+Ein          (MWh) = 249.5445779146441
+Efficiency         = 0.48087600621419074
+Fill Time  (hours) = 6.585313414878189
+Drain Time (hours) = 14.26817906556941
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [141.42136]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.2, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 157947.88575474249
+Ein          (MWh) = 272.7868804642129
+Efficiency         = 0.43990385386493275
+Fill Time  (hours) = 6.749909647638567
+Drain Time (hours) = 14.624804236550228
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [43.205, 125.1666]         # Pipe length (m)
+fPipe           = [0.1, 0.1] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 162975.73144340236
+Ein          (MWh) = 303.1275626938322
+Efficiency         = 0.3958729418518881
+Fill Time  (hours) = 6.9647748480086475
+Drain Time (hours) = 15.090345504018737
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [43.205, 125.1666]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 140751.89218800742
+Ein          (MWh) = 169.01715308223493
+Efficiency         = 0.7099871096610784
+Fill Time  (hours) = 6.015038127692626
+Drain Time (hours) = 13.032582610000688
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [141.42136]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.2, 0.2]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 139959.05649016442
+Ein          (MWh) = 164.23276281687572
+Efficiency         = 0.7306702873518817
+Fill Time  (hours) = 5.981156260263436
+Drain Time (hours) = 12.959171897237445
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 139784.55172626418
+Ein          (MWh) = 163.17970870246776
+Efficiency         = 0.7353855510233868
+Fill Time  (hours) = 5.973698791720691
+Drain Time (hours) = 12.943014048728164
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [90]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138946.7354489782
+Ein          (MWh) = 158.12388181158454
+Efficiency         = 0.7588986472200843
+Fill Time  (hours) = 5.93789467730676
+Drain Time (hours) = 12.865438467497981
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [100]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 139070.2770500234
+Ein          (MWh) = 158.86939722545372
+Efficiency         = 0.755337416114863
+Fill Time  (hours) = 5.943174232906983
+Drain Time (hours) = 12.876877504631798
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138663.42104683846
+Ein          (MWh) = 156.4142127448144
+Efficiency         = 0.7671937088976485
+Fill Time  (hours) = 5.925787224223866
+Drain Time (hours) = 12.839205652485044
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [67]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60559.883940767635
+Ein          (MWh) = 154.96092198331777
+Efficiency         = 0.7743887843731243
+Fill Time  (hours) = 5.176058456475866
+Drain Time (hours) = 11.214793322364377
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [90]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 20           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 60667.93589925901
+Ein          (MWh) = 156.4513053243608
+Efficiency         = 0.7670118171990412
+Fill Time  (hours) = 5.185293666603334
+Drain Time (hours) = 11.234802944307225
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.9          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [90]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138946.7354489782
+Ein          (MWh) = 158.12388181158454
+Efficiency         = 0.7588986472200843
+Fill Time  (hours) = 5.93789467730676
+Drain Time (hours) = 12.865438467497981
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [90]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 30           # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 138946.7354489782
+Ein          (MWh) = 165.47848096561174
+Efficiency         = 0.7251698184547472
+Fill Time  (hours) = 5.93789467730676
+Drain Time (hours) = 12.865438467497981
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 65           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 30           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 45917.829195688406
+Ein          (MWh) = 157.94287597848637
+Efficiency         = 0.7597683609126212
+Fill Time  (hours) = 1.9623003929781369
+Drain Time (hours) = 4.25165085145263
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 30           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 15           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 45668.990942557044
+Ein          (MWh) = 153.03822236880714
+Efficiency         = 0.7841178376393562
+Fill Time  (hours) = 4.228610272458986
+Drain Time (hours) = 8.457220544917972
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 30           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 10           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 45623.20545627986
+Ein          (MWh) = 152.88479376691473
+Efficiency         = 0.7849047445683168
+Fill Time  (hours) = 4.224370875581468
+Drain Time (hours) = 12.673112626744405
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 30           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 12           # Turbine flow volume (m^3/s)
+
+Output:
+Surface Area (m^2) = 45639.311473627065
+Ein          (MWh) = 152.93876553667334
+Efficiency         = 0.7846277533293223
+Fill Time  (hours) = 4.225862173483988
+Drain Time (hours) = 10.56465543370997
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 30           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes on each way
+
+Output:
+Surface Area (m^2) = 45583.69059002355
+Ein          (MWh) = 152.75237820957057
+Efficiency         = 0.7855851503363468
+Fill Time  (hours) = 4.220712091668847
+Drain Time (hours) = 11.511032977278674
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 27           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 45583.69059002355
+Ein          (MWh) = 152.54454680688463
+Efficiency         = 0.7866554558119686
+Fill Time  (hours) = 4.689680101854274
+Drain Time (hours) = 11.511032977278674
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 27           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 45583.69059002355
+Ein          (MWh) = 152.54454680688463
+Efficiency         = 0.7866554558119686
+Fill Time  (hours) = 4.689680101854274
+Drain Time (hours) = 11.511032977278674
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 23           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 45583.69059002355
+Ein          (MWh) = 152.30146914292447
+Efficiency         = 0.787910981261699
+Fill Time  (hours) = 5.5052766413071925
+Drain Time (hours) = 11.511032977278674
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 25           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 10           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 45583.69059002355
+Ein          (MWh) = 152.41814642162532
+Efficiency         = 0.787307829266281
+Fill Time  (hours) = 5.0648545100026165
+Drain Time (hours) = 11.511032977278674
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 25           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 15           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 29682.44788308153
+Ein          (MWh) = 152.40071044213312
+Efficiency         = 0.7873979041952318
+Fill Time  (hours) = 4.947074647180255
+Drain Time (hours) = 11.243351470864217
+
+------------------------------------------------------------------------------- *
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 25           # Pump flow volume (m^3/s)
+dPipe           = [3, 3]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 16           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 27698.472933664485
+Ein          (MWh) = 152.39732010668786
+Efficiency         = 0.7874154211897711
+Fill Time  (hours) = 4.9241729659847975
+Drain Time (hours) = 11.191302195419993
+
+------------------------------------------------------------------------------- *
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 25           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 16           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+
+-------------------------------------------------------------------------------
+Inputs:
+nPump           = 0.86          # Pump efficiency
+Qpump           = 25           # Pump flow volume (m^3/s)
+dPipe           = [2, 2]       # Pipe diameter (m) [up, down]
+lPipe           = [115.47]         # Pipe length (m)
+fPipe           = [0.01, 0.01] # Pipe friction coefficient [up, down]
+dWater          = 16           # Depth of water reservoir (m)
+hWater          = 100           # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]  # Pipe bend coefficient
+nTurbine        = 0.92         # Turbine efficiency
+Qturbine        = 11           # Turbine flow volume (m^3/s)
+number          = 1             # number of pipes along each way (up/down)
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.86           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 435147.35604869644
+Efficiency / $     = 1.7631822902244924e-06
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.86           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 435147.35604869644
+$ / %Efficiency    = 5671.563317895382
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.86           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 435147.35604869644
+$ / %Efficiency    = 5671.563317895382
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.86           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 435147.35604869644
+$ / %Efficiency    = 5671.563317895382
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.86           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 156.4039373529556
+Efficiency         = 0.7672441118230732
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 435147.35604869644
+$ / %Efficiency    = 5671.563317895382
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.89           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 151.13189452083347
+Efficiency         = 0.7940084413052736
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 438872.35604869644
+$ / %Efficiency    = 5527.300885205105
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.89           # Pump efficiency
+Qpump           = 25             # Pump flow volume (m^3/s)
+dPipe           = 2              # Pipe diameter (m) 
+lPipe           = [115.47]       # Pipe length (m)
+fPipe           = 0.01           # Pipe friction coefficient 
+dWater          = 16             # Depth of water reservoir (m)
+hWater          = 100            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 11             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 27722.247447109068
+Ein          (MWh) = 151.13189452083347
+Efficiency         = 0.7940084413052736
+Fill Time  (hours) = 4.928399546152723
+Drain Time (hours) = 11.200908059438007
+Cost          ($)  = 438872.35604869644
+$ / %Efficiency    = 5527.300885205105
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.89           # Pump efficiency
+Qpump           = 15             # Pump flow volume (m^3/s)
+dPipe           = .75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 5             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.89           # Turbine efficiency
+Qturbine        = 40             # Turbine flow volume (m^3/s)
+totalPipes      = 6              # total number of pipes (up & down)
+nPipe           = 3              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 53690.17161596111
+Ein          (MWh) = 96.09609180868247
+Efficiency         = 1.2487500557141051
+Fill Time  (hours) = 4.971312186663066
+Drain Time (hours) = 1.8642420699986497
+Cost          ($)  = 428487.87884783285
+$ / %Efficiency    = 3431.334212055747
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.89           # Pump efficiency
+Qpump           = 21             # Pump flow volume (m^3/s)
+dPipe           = .75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 17             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 52             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 22219.70461515108
+Ein          (MWh) = 108.31086026459593
+Efficiency         = 1.1079221391728244
+Fill Time  (hours) = 4.996494424041909
+Drain Time (hours) = 2.017815055863079
+Cost          ($)  = 408158.9611018759
+$ / %Efficiency    = 3684.004016803994
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 2              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 150             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [130, 200]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 12             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 125             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 71896.25395133298
+Ein          (MWh) = 207.36974078394502
+Efficiency         = 0.578676520240366
+Fill Time  (hours) = 1.597694532251844
+Drain Time (hours) = 1.917233438702213
+Cost          ($)  = 1152765.5630782642
+$ / %Efficiency    = 19920.724666683174
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 2              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 150             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [130, 200]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 12             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 125             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 56002.87655609885
+Ein          (MWh) = 205.64301993776994
+Efficiency         = 0.5835354880331628
+Fill Time  (hours) = 1.5556354598916347
+Drain Time (hours) = 1.8667625518699615
+Cost          ($)  = 1225396.694834188
+$ / %Efficiency    = 20999.52307895536
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 2              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 75             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [130, 200]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 12             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 50             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 48484.005505809655
+Ein          (MWh) = 153.5603737100782
+Efficiency         = 0.7814516017430372
+Fill Time  (hours) = 2.69355586143387
+Drain Time (hours) = 4.040333792150805
+Cost          ($)  = 1057279.3216379622
+$ / %Efficiency    = 13529.683978888623
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 2              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 75             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [130, 200]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 12             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.22, 0.22]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 50             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 80806.67584301608
+Ein          (MWh) = 153.5603737100782
+Efficiency         = 0.7814516017430372
+Fill Time  (hours) = 2.69355586143387
+Drain Time (hours) = 4.040333792150805
+Cost          ($)  = 1036585.1238922686
+$ / %Efficiency    = 13264.86658393371
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 78             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [67.3]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 12             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 33             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 79241.47148694393
+Ein          (MWh) = 147.10736444387308
+Efficiency         = 0.8157307450490315
+Fill Time  (hours) = 2.5397907527866646
+Drain Time (hours) = 6.003141779313935
+Cost          ($)  = 463775.6696402697
+$ / %Efficiency    = 5685.40137116437
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 78             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [67.3]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 8             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 33             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 147015.5284415723
+Ein          (MWh) = 147.27108314221675
+Efficiency         = 0.8148239113860417
+Fill Time  (hours) = 2.617797871110618
+Drain Time (hours) = 6.187522240806915
+Cost          ($)  = 446077.0981385484
+$ / %Efficiency    = 5474.521450650078
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 78             # Pump flow volume (m^3/s)
+dPipe           = 3              # Pipe diameter (m) 
+lPipe           = [67.3]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 8             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.92           # Turbine efficiency
+Qturbine        = 33             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 147015.5284415723
+Ein          (MWh) = 147.27108314221675
+Efficiency         = 0.8148239113860417
+Fill Time  (hours) = 2.617797871110618
+Drain Time (hours) = 6.187522240806915
+Cost          ($)  = 446077.0981385484
+$ / %Efficiency    = 5474.521450650078
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 78             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.3]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 11             # Depth of water reservoir (m)
+hWater          = 60            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 33             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 85614.86180568184
+Ein          (MWh) = 146.32578487088043
+Efficiency         = 0.820087861520028
+Fill Time  (hours) = 2.515393909889157
+Drain Time (hours) = 5.945476514283461
+Cost          ($)  = 443826.9048814967
+$ / %Efficiency    = 5411.943350299883
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 122039.20067787184
+Ein          (MWh) = 149.48392911109215
+Efficiency         = 0.802761880247471
+Fill Time  (hours) = 4.963896059318199
+Drain Time (hours) = 11.981818074216346
+Cost          ($)  = 458026.31206479046
+$ / %Efficiency    = 5705.631063642342
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 122038.5730599078
+Ein          (MWh) = 149.47900257007512
+Efficiency         = 0.8027883377382352
+Fill Time  (hours) = 4.963870531206567
+Drain Time (hours) = 11.98175645463654
+Cost          ($)  = 457747.0681996484
+$ / %Efficiency    = 5701.964598654967
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 122038.5730599078
+Ein          (MWh) = 149.47900257007512
+Efficiency         = 0.8027883377382352
+Fill Time  (hours) = 4.963870531206567
+Drain Time (hours) = 11.98175645463654
+Cost          ($)  = 457747.0681996484
+$ / %Efficiency    = 5701.964598654967
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.08203932]       # Pipe length (m)
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 122038.5730599078
+Ein          (MWh) = 149.47900257007512
+Efficiency         = 0.8027883377382352
+Fill Time  (hours) = 4.963870531206567
+Drain Time (hours) = 11.98175645463654
+Cost          ($)  = 457747.0681996484
+$ / %Efficiency    = 5701.964598654967
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.13267284]       # Pipe length (m)67.08203932
+fPipe           = 0.002           # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30            # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)   
+
+Output:
+Surface Area (m^2) = 122038.71885859621
+Ein          (MWh) = 149.48014702937982
+Efficiency         = 0.8027821913796647
+Fill Time  (hours) = 4.963876461510361
+Drain Time (hours) = 11.981770769162942
+Cost          ($)  = 457811.93815578875
+$ / %Efficiency    = 5702.816318944388
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70             # Pump flow volume (m^3/s)
+dPipe           = 2.75           # Pipe diameter (m) 
+lPipe           = [67.08203932]  # Pipe length (m) (list form)
+fPipe           = 0.002          # Pipe friction coefficient 
+dWater          = 13             # Depth of water reservoir (m)
+hWater          = 30             # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient (list form)
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29             # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)
+areaUnderPipes  = 0              # area below raised pipe instalation (user defined)   
+
+Output:
+Surface Area (m^2) = 122038.5730599078
+Ein          (MWh) = 149.47900257007512
+Efficiency         = 0.8027883377382352
+Fill Time  (hours) = 4.963870531206567
+Drain Time (hours) = 11.98175645463654
+Cost          ($)  = 457747.0681996484
+$ / %Efficiency    = 5701.964598654967
+-------------------------------------------------------------------------------
+Inputs:
+zone            = 1              # Zone choice
+nPump           = 0.92           # Pump efficiency
+Qpump           = 70            # Pump flow volume (m^3/s)
+dPipe           = 2.75              # Pipe diameter (m) 
+lPipe           = [67.08203932]  # Pipe length (m) (list form)
+fPipe           = 0.002          # Pipe friction coefficient 
+dWater          = 13              # Depth of water reservoir (m)
+hWater          = 30             # Elevation of water reservoir (m)
+bendCoefficient = [0.15, 0.15]   # Pipe bend coefficient (list form)
+nTurbine        = 0.94           # Turbine efficiency
+Qturbine        = 29            # Turbine flow volume (m^3/s)
+totalPipes      = 1              # total number of pipes (up & down)
+nPipe           = 0              # number of pipes in one direction (0 if 1 total pipe)
+areaUnderPipes  = 0              # area below raised pipe instalation (user defined)   
+
+Output:
+Surface Area (m^2) = 122038.5730599078
+Ein          (MWh) = 149.47900257007512
+Efficiency         = 0.8027883377382352
+Fill Time  (hours) = 4.963870531206567
+Drain Time (hours) = 11.98175645463654
+Cost          ($)  = 457747.0681996484
+$ / %Efficiency    = 5701.964598654967
