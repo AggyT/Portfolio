@@ -2,19 +2,19 @@
 *List of Project Descriptions*
 
 #### Robot Kinematic
-- 2024 (Master's)
+- 2024 (Master's) | Created a 4-DOF light-painting robot that leverages long-exposure photography to paint images and text
 #### Soft Robotics
-- 2024 (Master's)
+- 2024 (Master's) | Developed a Python framework for a modular soft robotic arm to support robotics research
 #### Bionics
-- 2024 (Master's)
+- 2024 (Master's) | Designing a bionic system to aid patients with a weakened quad
 #### Senior Design
-- 2024 (Senior)
+- 2024 (Senior) | Developing a surgical procedure and the related instruments to permanently relieve lower back pain
 #### IE574
-- 2024 (Senior)
+- 2024 (Senior) | Developing a machine-vision based model and simulation for a 3DCP (3D Concrete Printing) CoBot
 #### ME597
-- 2024 (Senior)
+- 2024 (Senior) | Developing a convolutional autoencoder model to catch failures and anomalies in Starrag's manufacturing machines
 #### ME553
-- 2023 (Senior)
+- 2023 (Senior) | Creating a low cost consumer product that leverages an LLM in the form of a desktop companion/toy
 #### Annular Fins Heat Dissipation Research
 - 2023 (Senior) | Investigating the effects of annular fins
 #### Model Rocket Airbrakes Research
