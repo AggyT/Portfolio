@@ -7,7 +7,7 @@
 - 2024 (Master's) | Developed a Python framework for a modular soft robotic arm to support robotics research
 #### Bionic Solution for Myasthenia Gravis
 - 2024 (Master's) | Designing a bionic system to aid patients with a weakened quad
-#### Surgical Instruments to Relieve Back Pain - Senior Design
+#### Surgical Instruments to Relieve Back Pain; Senior Design
 - 2024 (Senior) | Developing a surgical neurotomy procedure and the related instruments to permanently relieve lower back pain
 #### ML CoBot for 3D Concrete Printing
 - 2024 (Senior) | Developing a machine-vision based model and simulation for a 3DCP (3D Concrete Printing) CoBot
