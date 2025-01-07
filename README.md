@@ -1,19 +1,19 @@
 # Projects
 *List of Project Descriptions*
 
-#### Robot Kinematic
-- 2024 (Master's) | Created a 4-DOF light-painting robot that leverages long-exposure photography to paint images and text
-#### Soft Robotics
+#### 4-DOF Light Painting Robot
+- 2024 (Master's) | Creating the Bulb Equipped Artistic Manipulator (BEAM), a robotic arm that leverages long-exposure photography to paint images and text
+#### Soft Modular Adaptive Robotic Technology (SMART) Arm
 - 2024 (Master's) | Developed a Python framework for a modular soft robotic arm to support robotics research
-#### Bionics
+#### Bionic Solution for Myasthenia Gravis
 - 2024 (Master's) | Designing a bionic system to aid patients with a weakened quad
-#### Senior Design
-- 2024 (Senior) | Developing a surgical procedure and the related instruments to permanently relieve lower back pain
-#### IE574
+#### Surgical Instruments to Relieve Back Pain - Senior Design
+- 2024 (Senior) | Developing a surgical neurotomy procedure and the related instruments to permanently relieve lower back pain
+#### ML CoBot for 3D Concrete Printing
 - 2024 (Senior) | Developing a machine-vision based model and simulation for a 3DCP (3D Concrete Printing) CoBot
-#### ME597
-- 2024 (Senior) | Developing a convolutional autoencoder model to catch failures and anomalies in Starrag's manufacturing machines
-#### ME553
+#### Auditory Convolutional Autoencoder for Starrag
+- 2024 (Senior) | Developing a audio-based convolutional autoencoder model to catch failures and anomalies in Starrag's manufacturing machines
+#### AI Desktop Companion
 - 2023 (Senior) | Creating a low cost consumer product that leverages an LLM in the form of a desktop companion/toy
 #### Annular Fins Heat Dissipation Research
 - 2023 (Senior) | Investigating the effects of annular fins
