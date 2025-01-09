@@ -10,11 +10,11 @@
 #### Surgical Instruments to Relieve Back Pain; Senior Design
 - 2024 (Senior) | Developing a surgical neurotomy procedure and the related instruments to permanently relieve lower back pain
 #### ML CoBot for 3D Concrete Printing
-- 2024 (Senior) | Developing a machine-vision based model and simulation for a 3DCP (3D Concrete Printing) CoBot
+- 2024 (Senior) | Developing a machine-vision-based model and simulation for a 3DCP (3D Concrete Printing) CoBot
 #### Auditory Convolutional Autoencoder for Starrag
-- 2024 (Senior) | Developing a audio-based convolutional autoencoder model to catch failures and anomalies in Starrag's manufacturing machines
+- 2024 (Senior) | Developing an audio-based convolutional autoencoder model to catch failures and anomalies in Starrag's manufacturing machines
 #### AI Desktop Companion
-- 2023 (Senior) | Creating a low cost consumer product that leverages an LLM in the form of a desktop companion/toy
+- 2023 (Senior) | Creating a low-cost consumer product that leverages an LLM in the form of a desktop companion/toy
 #### Annular Fins Heat Dissipation Research
 - 2023 (Senior) | Investigating the effects of annular fins
 #### Model Rocket Airbrakes Research
