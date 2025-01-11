@@ -1,3 +1,5 @@
 [submodule "Projects/BEAM"]
 	path = Projects/BEAM
 	url = https://github.com/AggyT/BEAM.git
+[submodule "Projects/2-DOF Light Painting Robot"]
+	path = Projects/2-DOF Light Painting Robot
